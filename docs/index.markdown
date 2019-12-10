@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# 2019 
+
+[EDA](../eda.md)
