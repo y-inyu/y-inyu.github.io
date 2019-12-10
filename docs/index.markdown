@@ -7,4 +7,4 @@ layout: home
 
 # 2019 
 
-[EDA](../eda.md)
+[EDA](../docs/eda.md)
